@@ -1,0 +1,3 @@
+git cofig --list
+git congig --global user.name "biju"
+git config --global user.email "bijucrchemmannur@gmail.com"
